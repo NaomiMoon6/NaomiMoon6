@@ -1,1 +1,28 @@
+<h1>
+  Naomi Marra :p
+</h1>
 
+<h2>
+  <br> Tecnóloga em Anáslise e Desenvolvimento de Sistemas [3/6];
+  <br> Futura Dev Full-Stack;
+  <br> Aberta a ofertas;
+</h2>
+
+<h1>
+  Skills
+</h1>
+
+<foreignObject>
+  .roboto-mono-<uniquifier> {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  body {
+    background-color: #43387BFB;
+    color: #AF9BF7FF;
+    font-family: Roboto Mono;
+  }
+</foreignObject>
