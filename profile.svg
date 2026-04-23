@@ -1,9 +1,9 @@
-<svg width="600" height="400" viewBox="0 0 600 400"
+<svg width="600" height="400" viewBox="0 0 600 300"
      xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
       font-family: 'Roboto Mono', monospace;
-      fill: #AF9BF7FF;
+      fill: #BAB4F7FF;
     }
     .title {
       font-size: 24px;
@@ -15,7 +15,7 @@
   </style>
 
   <!-- Background -->
-  <rect width="100%" height="100%" fill="#43387BFB"/>
+  <rect width="100%" height="100%" fill="#322A5DFB"/>
 
   <!-- Title -->
   <text x="20" y="40" class="title">Naomi Marra :p</text>
