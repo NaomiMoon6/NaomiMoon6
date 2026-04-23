@@ -1,28 +1,35 @@
-<h1>
-  Naomi Marra :p
-</h1>
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'Roboto Mono', monospace;
+      fill: #AF9BF7FF;
+    }
+    .title {
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .subtitle {
+      font-size: 16px;
+    }
+  </style>
 
-<h2>
-  <br> Tecnóloga em Anáslise e Desenvolvimento de Sistemas [3/6];
-  <br> Futura Dev Full-Stack;
-  <br> Aberta a ofertas;
-</h2>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#43387BFB"/>
 
-<h1>
-  Skills
-</h1>
+  <!-- Title -->
+  <text x="20" y="40" class="title">Naomi Marra :p</text>
 
-<foreignObject>
-  .roboto-mono-<uniquifier> {
-    font-family: "Roboto Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
-  
-  body {
-    background-color: #43387BFB;
-    color: #AF9BF7FF;
-    font-family: Roboto Mono;
-  }
-</foreignObject>
+  <!-- Subtitle -->
+  <text x="20" y="80" class="subtitle">
+    Tecnóloga em Análise e Desenvolvimento de Sistemas [3/6];
+  </text>
+  <text x="20" y="110" class="subtitle">
+    Futura Dev Full-Stack;
+  </text>
+  <text x="20" y="140" class="subtitle">
+    Aberta a ofertas;
+  </text>
+
+  <!-- Skills -->
+  <text x="20" y="200" class="title">Skills</text>
+</svg>
