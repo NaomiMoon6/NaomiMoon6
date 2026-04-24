@@ -1,14 +1,15 @@
-<svg width="600" height="220" viewBox="0 0 600 220"
+<svg width="600" height="230" viewBox="0 0 600 230"
 xmlns="http://www.w3.org/2000/svg">
      <style>
           text {
           font-family: 'Roboto Mono', monospace;
           fill: #C5B1F7FF;
-          font-size: 20;
+          font-size: 23;
           }
 
           .nome {
           font-weight: bold;
+          text-decoration: underline;
           fill: #DBDBFFFF;
           }
           .title {
@@ -31,7 +32,7 @@ xmlns="http://www.w3.org/2000/svg">
           Tecnóloga em Análise e Desenvolvimento de Sistemas;
      </text>
      <text x="40" y="100" class="title">
-          [■■■□□□ 50% (3 de 6 Semestres);
+          [■■■□□□ 50%] (3 de 6 Semestres);
      </text>
      <text x="20" y="130" class="subtitle">
           Futura Dev Full-Stack;
