@@ -21,7 +21,7 @@ xmlns="http://www.w3.org/2000/svg">
      <!-- Background -->
      <!--rect width="100%" height="100%" fill="#322A5DFB"/-->
 
-     <text x="0" y="20" class="title">
+     <text x="0" y="10" class="title">
           "Informações Pessoais" {
      </text>
      
@@ -30,17 +30,17 @@ xmlns="http://www.w3.org/2000/svg">
      <text x="0" y="70" class="subtitle">
           Tecnóloga em Análise e Desenvolvimento de Sistemas;
      </text>
-     <text x="0" y="100" class="subtitle">
+     <text x="20" y="100" class="name">
           [■■■□□□ 50% (3 de 6 Semestres);
      </text>
-     <text x="0" y="130" class="subtitle">
+     <text x="0" y="150" class="subtitle">
           Futura Dev Full-Stack;
      </text>
 
-     <text x="0" y="160" class="title">
+     <text x="0" y="180" class="title">
           }
      </text>
      
      <!-- Skills -->
-     <text x="0" y="200" class="title"> "Skills" { </text>
+     <text x="0" y="220" class="title"> "Skills" { </text>
 </svg>
