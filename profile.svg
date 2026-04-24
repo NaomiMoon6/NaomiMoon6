@@ -10,7 +10,7 @@ xmlns="http://www.w3.org/2000/svg">
           .nome {
           font-weight: bold;
           text-decoration: underline;
-          fill: #DBDBFFFF;
+          fill: #C493FFFF;
           }
           .title {
           fill: #7245A9FF;
@@ -26,7 +26,7 @@ xmlns="http://www.w3.org/2000/svg">
           "Informações Pessoais" {
      </text>
      
-     <text x="20" y="40" class="nome">Naomi Marra</text>
+     <text x="20" y="40" class="nome">Naomi Marra Marcondes</text>
       
      <text x="20" y="70" class="subtitle">
           Tecnóloga em Análise e Desenvolvimento de Sistemas;
