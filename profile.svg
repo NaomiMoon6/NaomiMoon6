@@ -20,7 +20,7 @@ xmlns="http://www.w3.org/2000/svg">
      <!-- Background -->
      <!--rect width="100%" height="100%" fill="#322A5DFB"/-->
 
-     <text x="0" y="10" class="subtitle">
+     <text x="0" y="10" class="title">
           "Informações Pessoais" {
      </text>
      
