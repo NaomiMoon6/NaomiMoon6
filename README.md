@@ -5,3 +5,7 @@
 <div>
 <img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/profile.svg" alt="Text SVG"/>
 </div>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,css,html,python, cpp" />
+</a>
