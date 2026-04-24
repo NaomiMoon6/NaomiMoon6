@@ -3,5 +3,5 @@
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/f768016e88346ad29dd4d0043041056dfa00a5ff/profile.svg" alt="Text SVG"/>
+<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/profile.svg" alt="Text SVG"/>
 </div>
