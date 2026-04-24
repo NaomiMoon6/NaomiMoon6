@@ -4,18 +4,16 @@ xmlns="http://www.w3.org/2000/svg">
           text {
           font-family: 'Roboto Mono', monospace;
           fill: #C5B1F7FF;
+          font-size: 20;
           }
 
           .nome {
-               font-size: 25px;
+               font-weight: bold;
           }
           .title {
-          font-size: 30px;
-          font-weight: bold;
           fill: #7245A9FF;
           }
           .subtitle {
-          font-size: 15px;
           }
      </style>
      
