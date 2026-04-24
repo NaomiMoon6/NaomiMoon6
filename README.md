@@ -7,5 +7,5 @@
 </div>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,css,html,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,css,html,python,php,cpp" />
 </a>
