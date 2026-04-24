@@ -25,15 +25,15 @@ xmlns="http://www.w3.org/2000/svg">
           "Informações Pessoais" {
      </text>
      
-     <text x="0" y="40" class="nome">Naomi Marra</text>
+     <text x="20" y="40" class="nome">Naomi Marra</text>
       
-     <text x="0" y="70" class="subtitle">
+     <text x="20" y="70" class="subtitle">
           Tecnóloga em Análise e Desenvolvimento de Sistemas;
      </text>
-     <text x="20" y="100" class="title">
+     <text x="40" y="100" class="title">
           [■■■□□□ 50% (3 de 6 Semestres);
      </text>
-     <text x="0" y="150" class="subtitle">
+     <text x="20" y="150" class="subtitle">
           Futura Dev Full-Stack;
      </text>
 
