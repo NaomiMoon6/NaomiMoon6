@@ -20,17 +20,7 @@
   <!-- Title -->
   <text x="20" y="40" class="title">Naomi Marra :p</text>
 
-  <!-- Subtitle -->
-  
-
-  <text x="20" y="80" class="subtitle">
-       _..._     
-     .::'     
-    :::       
-    :::        
-    `::.      
-      `':..-' 
-  </text>   
+  <!-- Subtitle --> 
   <text x="20" y="80" class="subtitle">
     Tecnóloga em Análise e Desenvolvimento de Sistemas [3/6];
   </text>
