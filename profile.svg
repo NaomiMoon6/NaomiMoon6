@@ -8,7 +8,8 @@ xmlns="http://www.w3.org/2000/svg">
           }
 
           .nome {
-               font-weight: bold;
+          font-weight: bold;
+          fill: #DBDBFFFF;
           }
           .title {
           fill: #7245A9FF;
@@ -20,23 +21,23 @@ xmlns="http://www.w3.org/2000/svg">
      <!-- Background -->
      <!--rect width="100%" height="100%" fill="#322A5DFB"/-->
 
-     <text x="0" y="10" class="title">
+     <text x="0" y="20" class="title">
           "Informações Pessoais" {
      </text>
      
      <text x="0" y="40" class="nome">Naomi Marra</text>
       
-     <text x="0" y="80" class="subtitle">
+     <text x="0" y="70" class="subtitle">
           Tecnóloga em Análise e Desenvolvimento de Sistemas [3/6];
      </text>
-     <text x="0" y="110" class="subtitle">
+     <text x="0" y="100" class="subtitle">
           Futura Dev Full-Stack;
      </text>
-     <text x="0" y="140" class="subtitle">
+     <text x="0" y="130" class="subtitle">
           Aberta a ofertas;
      </text>
 
-     <text x="0" y="170" class="subtitle">
+     <text x="0" y="160" class="title">
           }
      </text>
      
