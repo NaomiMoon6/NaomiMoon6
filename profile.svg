@@ -10,7 +10,7 @@ xmlns="http://www.w3.org/2000/svg">
           .nome {
           font-weight: bold;
           text-decoration: underline;
-          fill: ##7E49FFFF;
+          fill: #7E49FFFF;
           }
           .title {
           fill: #7245A9FF;
