@@ -21,7 +21,7 @@
 
 
 <pre>
-<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/kitty.svg"/>
+
 </pre>
 
 </td>
