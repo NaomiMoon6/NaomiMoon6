@@ -16,6 +16,11 @@
 <img src="https://skillicons.dev/icons?i=java,javascript,css,html,python,php,cpp&theme=dark" />
 </div>
 
+<div>
+<br>
+<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/literally}.svg"/>
+</div>
+
 </td>
 <td valign="top">
 
