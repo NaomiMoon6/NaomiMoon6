@@ -5,12 +5,11 @@ xmlns="http://www.w3.org/2000/svg">
     text {
       font-family: 'Roboto Mono', monospace;
       fill: #C5B1F7;
-      font-size: 14px;
+      font-size: 8px;
     }
   </style>
 
   <text x="0" y="20" xml:space="preserve">
-    <tspan x="0" dy="1.2em">how to make this svg work with the ascii art</tspan>
     <tspan x="0" dy="1.2em">       ,</tspan>
     <tspan x="0" dy="1.2em">       `-._           __</tspan>
     <tspan x="0" dy="1.2em">        \  `-..____,.'  `.</tspan>
