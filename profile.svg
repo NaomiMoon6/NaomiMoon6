@@ -44,7 +44,7 @@ xmlns="http://www.w3.org/2000/svg">
           }
      </text>
      
-     <text x="0" y="180" class="title"> 
+     <text x="0" y="180" class="dark"> 
           "Skills" { 
      </text>
 </svg>
