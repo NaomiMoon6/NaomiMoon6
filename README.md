@@ -6,26 +6,9 @@
 <img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/profile.svg" alt="Text SVG"/>
 </div-->
 
- <style>
-      text {
-      font-family: 'Roboto Mono', monospace;
-      fill: #C5B1F7FF;
-      font-size: 25;
-      }
-
-      .highlight {
-      font-weight: bold;
-      text-decoration: underline;
-      fill: #7E49FFFF;
-      }
-      .dark {
-      fill: #7245A9FF;
-      }
-     
- </style>
-
 <div>
-    <p class= "dark"> Informações Pessoais { </p>
+    <p color = "#7245A9FF"> Informações Pessoais { </p>
+    <p color = "#C5B1F7FF"> Informações Pessoais { </p>
 </div>
 
 <a href="https://skillicons.dev">
