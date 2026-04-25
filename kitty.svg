@@ -1,0 +1,44 @@
+<svg width="600" height="260" viewBox="0 0 600 260"
+xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    text {
+      font-family: 'Roboto Mono', monospace;
+      fill: #C5B1F7;
+      font-size: 14px;
+    }
+  </style>
+
+  <text x="0" y="20" xml:space="preserve">
+    <tspan x="0" dy="1.2em">how to make this svg work with the ascii art</tspan>
+    <tspan x="0" dy="1.2em">       ,</tspan>
+    <tspan x="0" dy="1.2em">       `-._           __</tspan>
+    <tspan x="0" dy="1.2em">        \  `-..____,.'  `.</tspan>
+    <tspan x="0" dy="1.2em">         :`.         /    `.</tspan>
+    <tspan x="0" dy="1.2em">         :  )       :      : \</tspan>
+    <tspan x="0" dy="1.2em">          ;'        '   ;  |  :</tspan>
+    <tspan x="0" dy="1.2em">          )..      .. .:.`.;  :</tspan>
+    <tspan x="0" dy="1.2em">         /::...  .:::...   ` ;</tspan>
+    <tspan x="0" dy="1.2em">         ; _ '    __        /:\</tspan>
+    <tspan x="0" dy="1.2em">         `:o&gt;   /\o_&gt;      ;:. `.</tspan>
+    <tspan x="0" dy="1.2em">        `-`.__ ;   __..--- /:.   \</tspan>
+    <tspan x="0" dy="1.2em">        === \_/   ;=====_.':.     ;</tspan>
+    <tspan x="0" dy="1.2em">         ,/'`--'...`--....        ;</tspan>
+    <tspan x="0" dy="1.2em">              ;                    ;</tspan>
+    <tspan x="0" dy="1.2em">            .'                      ;</tspan>
+    <tspan x="0" dy="1.2em">          .'                        ;</tspan>
+    <tspan x="0" dy="1.2em">        .'     ..     ,      .       ;</tspan>
+    <tspan x="0" dy="1.2em">       :       ::..  /      ;::.     |</tspan>
+    <tspan x="0" dy="1.2em">      /      `.;::.  |       ;:..    ;</tspan>
+    <tspan x="0" dy="1.2em">     :         |:.   :       ;:.    ;</tspan>
+    <tspan x="0" dy="1.2em">     :         ::     ;:..   |.    ;</tspan>
+    <tspan x="0" dy="1.2em">      :       :;      :::....|     |</tspan>
+    <tspan x="0" dy="1.2em">      /\     ,/ \      ;:::::;     ;</tspan>
+    <tspan x="0" dy="1.2em">    .:. \:..|    :     ; '.--|     ;</tspan>
+    <tspan x="0" dy="1.2em">   ::.  :''  `-.,,;     ;'   ;     ;</tspan>
+    <tspan x="0" dy="1.2em">.-'. _.'\      / `;      \,__:      \</tspan>
+    <tspan x="0" dy="1.2em">`---'    `----'   ;      /    \,.,,,/</tspan>
+    <tspan x="0" dy="1.2em">                   `----`</tspan>
+  </text>
+
+</svg>
