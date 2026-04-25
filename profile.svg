@@ -1,57 +1,52 @@
-<svg width="600" height="350" viewBox="0 0 600 350"
+<svg width="600" height="260" viewBox="0 0 600 260"
 xmlns="http://www.w3.org/2000/svg">
-     <style>
-          text {
-          font-family: 'Roboto Mono', monospace;
-          fill: #C5B1F7FF;
-          font-size: 25;
-          }
 
-          .nome {
-          font-weight: bold;
-          text-decoration: underline;
-          fill: #C493FFFF;
-          }
-          .title {
-          fill: #7245A9FF;
-          }
-          .subtitle {
-          }
-     </style>
-     
-     <!-- Background -->
-     <!--rect width="100%" height="100%" fill="#322A5DFB"/-->
+  <style>
+    .title {
+      fill: #7245A9FF;
+      font-family: monospace;
+      font-size: 20px;
+    }
+    .subtitle {
+      fill: #C5B1F7FF;
+      font-family: monospace;
+      font-size: 16px;
+    }
+  </style>
 
-     <text x="0" y="10" class="title">
-          "Informações Pessoais" {
-     </text>
-     
-     <foreignObject x="20" y="40" width="560" height="130">
-          <pre xmlns="http://www.w3.org/1999/xhtml"
-          style="font-family: monospace; color:#C493FF; font-size:14px; margin:0;">
-     d8b   db  .d8b.   .d88b.  .88b  d88. d888888b
-     888o  88 d8' `8b .8P  Y8. 88'YbdP`88   `88'
-     88V8o 88 88ooo88 88    88 88  88  88    88
-     88 V8o88 88~~~88 88    88 88  88  88    88
-     88  V888 88   88 `8b  d8' 88  88  88   .88.
-     VP   V8P YP   YP  `Y88P'  YP  YP  YP Y888888P
-          </pre>
-          </foreignObject>
-      
-     <text x="20" y="100" class="subtitle">
-          Tecnóloga em Análise e Desenvolvimento de Sistemas;
-     </text>
-     <text x="40" y="130" class="title">
-          [■■■□□□ 50%] (3 de 6 Semestres);
-     </text>
-     <text x="20" y="160" class="subtitle">
-          Futura Dev Full-Stack;
-     </text>
+  <!-- Title -->
+  <text x="0" y="20" class="title">
+    "Informações Pessoais" {
+  </text>
 
-     <text x="0" y="190" class="title">
-          }
-     </text>
-     
-     <!-- Skills -->
-     <text x="0" y="220" class="title"> "Skills" { </text>
+  <!-- ASCII ART -->
+  <foreignObject x="20" y="40" width="560" height="130">
+    <pre xmlns="http://www.w3.org/1999/xhtml"
+style="font-family: monospace; color:#C493FF; font-size:14px; margin:0;">
+d8b   db  .d8b.   .d88b.  .88b  d88. d888888b     .88b  d88.  .d8b.  d8888b. d8888b.  .d8b.
+888o  88 d8' `8b .8P  Y8. 88'YbdP`88   `88'       88'YbdP`88 d8' `8b 88  `8D 88  `8D d8' `8b
+88V8o 88 88ooo88 88    88 88  88  88    88        88  88  88 88ooo88 88oobY' 88oobY' 88ooo88
+88 V8o88 88~~~88 88    88 88  88  88    88        88  88  88 88~~~88 88`8b   88`8b   88~~~88
+88  V888 88   88 `8b  d8' 88  88  88   .88.       88  88  88 88   88 88 `88. 88 `88. 88   88
+VP   V8P YP   YP  `Y88P'  YP  YP  YP Y888888P     YP  YP  YP YP   YP 88   YD 88   YD YP   YP
+    </pre>
+  </foreignObject>
+
+  <!-- Subtitle -->
+  <text x="20" y="190" class="subtitle">
+    Tecnóloga em Análise e Desenvolvimento de Sistemas;
+  </text>
+
+  <text x="40" y="215" class="title">
+    [■■■□□□ 50%] (3 de 6 Semestres);
+  </text>
+
+  <text x="20" y="240" class="subtitle">
+    Futura Dev Full-Stack;
+  </text>
+
+  <text x="0" y="255" class="title">
+    }
+  </text>
+
 </svg>
