@@ -1,0 +1,15 @@
+<svg width="600" height="30" viewBox="0 0 600 30"
+xmlns="http://www.w3.org/2000/svg">
+     <style>
+          text {
+          font-family: 'Roboto Mono', monospace;
+          fill: #7245A9FF;
+          font-size: 25;
+          }
+
+     </style>
+
+     <text x="0" y="10">
+          }
+     </text>
+</svg>
