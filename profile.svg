@@ -37,23 +37,21 @@ xmlns="http://www.w3.org/2000/svg">
      VP   V8P YP   YP  `Y88P'  YP  YP  YP Y888888P
           </pre>
           </foreignObject>
-
-
       
-     <text x="20" y="70" class="subtitle">
+     <text x="20" y="100" class="subtitle">
           Tecnóloga em Análise e Desenvolvimento de Sistemas;
      </text>
-     <text x="40" y="100" class="title">
+     <text x="40" y="130" class="title">
           [■■■□□□ 50%] (3 de 6 Semestres);
      </text>
-     <text x="20" y="130" class="subtitle">
+     <text x="20" y="160" class="subtitle">
           Futura Dev Full-Stack;
      </text>
 
-     <text x="0" y="150" class="title">
+     <text x="0" y="190" class="title">
           }
      </text>
      
      <!-- Skills -->
-     <text x="0" y="180" class="title"> "Skills" { </text>
+     <text x="0" y="220" class="title"> "Skills" { </text>
 </svg>
