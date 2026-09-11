@@ -1,34 +1,31 @@
 <table>
 <tr>
 <td valign="top">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97BF7&width=435&separator=%3C&lines=System.out.println%28%22Hello%2C+World!%22%29;%3Cconsole.log%28%22Hello%2C+World!%22%29;%3Cprint%28%22Hello%2C+World!%22%29%3Cecho+%22Hello%2C+World!%22;%3Cprintf%28%22Hello%2C+World!%5Cn%22%29;)](https://git.io/typing-svg)
+  
+  ### Informações Pessoais:
+  Nome: **Naomi Marra Marcondes** <br>
+  Formação: **Tecnólogo em Análise e Desenvolvimento de Sistemas** <br>
+  Progresso: **4 de 6 Semestres - [■■■■□□ 66%]** <br>
+  Objetivo: **Futura Dev Full-Stack** <br>
+  Contato: [LinkedIn]([https://google.com](https://www.linkedin.com/in/naomi-mmr/?locale=en))
 
-<div>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=15&pause=1000&color=C5B1F7&background=322A5D00&vCenter=true&width=600&separator=%3D&lines=System.out.println(%22Hello+World!%22);%3Dprint(%22Hello+World!%22)%3D%3Ch1%3E+Hello+World!+%3C%2Fh1%3E" />
-</a>
-</div>
+  ---
 
-<div>
-<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/profile.svg"/>
-</div>
+  ### Habilidades:
+  Idiomas: **Português, Inglês, Espanhol, Francês** <br>
+  Linguagens: **Java, Javascript, HTML, CSS, PHP, Python, C** <br>
+  Extras: **SQL, SQLite, Electron**
+  
+  ---
 
-<div>
-<img src="https://skillicons.dev/icons?i=java,javascript,css,html,python,php,cpp&theme=dark" />
-</div>
-
-<div>
-<br>
-<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/literally}.svg"/>
-</div>
-
+<img src="https://skillicons.dev/icons?i=java,javascript,css,html,php,mysql,python,c&theme=dark" />
+    
 </td>
 <td valign="top">
 
-
-<pre>
-<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/kitty.svg"/>
-</pre>
+<img src="https://raw.githubusercontent.com/NaomiMoon6/NaomiMoon6/refs/heads/main/cat-face.svg"/>
 
 </td>
 </tr>
-</table>
