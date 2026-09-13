@@ -20,7 +20,7 @@
   
   ---
 
-<img src="https://skillicons.dev/icons?i=java,javascript,css,html,php,mysql,python,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,css,html,php,mysql,python,java,c&theme=dark" />
     
 </td>
 <td valign="top">
